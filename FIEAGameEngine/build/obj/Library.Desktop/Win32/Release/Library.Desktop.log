@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  Action.cpp
+  ActionCreateAction.cpp
+  ActionDestroyAction.cpp
+  ActionIncrement.cpp
+  ActionList.cpp
+  ActionListIf.cpp
+  Attributed.cpp
+  Datum.cpp
+  EventPublisher.cpp
+  EventQueue.cpp
+  EventSubscriber.cpp
+  GameClock.cpp
+  GameObject.cpp
+  GameState.cpp
+  GameTime.cpp
+  IJsonParseHelper.cpp
+  JsonParseCoordinator.cpp
+  JsonTableParseHelper.cpp
+  Scope.cpp
+  TypeRegistry.cpp
+  Library.Desktop.vcxproj -> C:\Dev\Students\CH18\Thomas.Wilson\Prog2\FIEAGameEngine\build\bin\Library.Desktop\Win32\Release\Library.Desktop.lib
